@@ -5,6 +5,7 @@ A full-stack **Doctor Appointment Booking System** developed for a **Software Qu
 Built with the **MERN Stack** (MongoDB, Express, React, Node.js) and styled with **Tailwind CSS**, this project focuses on functionality and automated testing using **Selenium**.
 
 <!-- REPLACE WITH YOUR ACTUAL SCREENSHOT -->
+<img width="1877" height="917" alt="image" src="https://github.com/user-attachments/assets/2aad3d92-e992-4998-b9d7-74f3e590f272" />
 
 
 ---
